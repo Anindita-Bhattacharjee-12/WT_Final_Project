@@ -43,6 +43,7 @@ $_SESSION['SafetyNotification']=true;
         <div style="text-align:center" class="button">
         <a href="User_Dashboard.php" style="color:black;">Next Page</a>
         <a href="../../Dashboard/logout.php" style="color:black;">Log Out</a>
+        <a href="../../Dashboard/dashboard.php"style="color:black;">Previous Page</a>
         </div>
     </body>
 </html>
