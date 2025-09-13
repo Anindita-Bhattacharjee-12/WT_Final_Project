@@ -1,0 +1,39 @@
+html,body{
+    width:100%;
+    margin:0;
+}
+body{
+    background-image: url("women-empowerment-text_1302-16236.jpg");
+}
+.form_design{
+    background-color:rgb(221, 47, 47);
+    display: block;
+    margin:auto;
+    font-weight: bold;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgb(red, green, blue);
+    width:400px;
+    text-align:left;
+}
+.form_design textarea{
+    width:100%;
+    border-radius: 5px;
+    border:1px solid black;
+}
+.form_design button{
+    width:100px;
+    border-radius: 5px;
+    border:1px solid black;
+    height: 20px;
+    cursor:pointer;
+    background-color:rgb(225, 83, 99);
+    display:block;
+    margin:auto;
+}   
+.form_design button:hover{
+    background-color: rgb(222, 158, 158);
+}
+h1{
+    color: brown;
+}

@@ -1,0 +1,30 @@
+body{  
+    background-color: rgb(245, 163, 177);
+}
+h1{
+    color:rgb(203, 15, 49);
+    text-align: center;
+    font-size: xx-large;
+}
+.form_design{
+    background-color: rgb(236, 121, 140);
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgb(red, green, blue);
+    width:700px;
+    text-align:left;
+    margin: 50px auto;
+    border-color: white;
+    font-style: italic;
+    height:50px;
+    color: black;
+}
+table,th,td{
+  border: 1px solid rgb(239, 69, 97);
+  border-collapse: collapse;
+}
+tr:nth-child(even){
+  background-color:whitesmoke;
+}
+th:nth-child(even),td:nth-child(even){
+  background-color: rgb(190, 91, 107);
+}

@@ -1,0 +1,48 @@
+            body{
+               font-family: Arial, Helvetica, sans-serif;
+               background-image: url("online-registration-via-mobile-device-icon-vector-30227389.webp");
+            }
+            form{
+                background-color: rgb(3, 87, 95);
+                padding: 20px;
+                max-width:300px;
+                max-height:500px;
+                margin:10px;
+                border-radius:5px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+                font-size: xx-small;
+                background-position: top left;
+                overflow: auto;
+            }
+            label{
+                font-weight: bold;
+            }
+            input{
+                width:100%;
+                padding:4px;
+                margin-top:4px;
+                margin-bottom:3px;
+                border:1px solid #ccc;
+                border-radius: 5px;
+            }
+            .submitRegister{
+                background-color: #003366;
+                color:white;
+                padding:0px;
+                width:100px;
+                height:20px ;
+                border:none;
+                border-radius:5px;
+                cursor:pointer;
+                display:inline-block;
+                gap:30px;
+            }
+            h1{
+                font-size:large;
+                text-align: center;
+            }
+            html,body{
+               height: 100%;
+               margin: 0;
+               padding: 0;
+            }

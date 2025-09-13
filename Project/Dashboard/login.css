@@ -1,0 +1,51 @@
+html,body{
+    height: 100%;
+    margin: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    background-image:url("wosafexplara20160606132109.jpg");
+    background-size: cover;
+    background-position: center;
+}
+form{
+    background-color: rgb(237, 230, 230);
+    padding:20px;
+    width:300px ;
+    margin-top: 60px;
+    max-width:300px;
+    max-height:350px;
+    margin:5px;
+    border-radius:5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    font-size: xx-small;
+    }
+input[type="text"],input[type="password"]{
+    width:100%;
+} 
+input[type="checkbox"]{
+    width:auto;
+    padding: 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+}   
+.button_group{
+    display:flex;
+    justify-content: center;
+    gap:15px;
+}
+.button{
+    background-color: rgb(147, 149, 201);
+    border:none;
+    font-size: 16px;
+    cursor:pointer;
+    padding:10px 20px;
+}
+input[type="submit"]:hover,input[type="button"]:hover{
+    color: blueviolet;
+}

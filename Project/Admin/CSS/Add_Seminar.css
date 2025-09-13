@@ -1,0 +1,36 @@
+body{  
+    background-image: url("Personal-Safety-For-Women-Empowerment-Advice-Resourcess-desktop.webp");
+}
+h1{
+    color:rgb(67, 58, 58);
+    text-align: center;
+    font-size: xx-large;
+}
+.form_design{
+    background-color: rgb(246, 93, 118);
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgb(red, green, blue);
+    width:400px;
+    text-align:left;
+    margin: 50px auto;
+}
+.form_design input{
+    width:100%;
+    border-radius: 5px;
+    border:1px solid black;
+    height: 20px;
+}
+.form_design button{
+    width:100px;
+    border-radius: 5px;
+    border:1px solid black;
+    height: 30px;
+    cursor:pointer;
+    background-color:rgb(121, 5, 98);
+    margin:auto;
+    display: block;
+}
+.form_design button:hover{
+    background-color: rgb(226, 146, 146);
+}

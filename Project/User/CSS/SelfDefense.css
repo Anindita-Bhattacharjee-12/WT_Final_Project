@@ -1,0 +1,21 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    zoom: 100%;
+}
+body{
+    font-family:Arial,sans-serif;
+    background-color:#f3f6fa;
+    margin:0;
+    padding:0;
+}
+header{
+    background-color: #072545;;
+    color:white;
+    padding:20px 0;
+    text-align:center;
+}
+p{
+    color:#2f0889;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
